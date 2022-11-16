@@ -23,3 +23,6 @@ of the user.
 
 #Screenshot:
 * Example *
+![hOME](https://user-images.githubusercontent.com/71288789/202185535-0a20f5bf-1167-4feb-8700-c454bdad52d8.PNG)
+
+![aBOUT S](https://user-images.githubusercontent.com/71288789/202185606-2d3adfc2-a0be-4ac7-9542-b71f591c1093.PNG)
